@@ -427,3 +427,15 @@ footer {
     max-width: 17.75rem;
   }
 }
+
+
+.center-element {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+justify-content: center;
+
+}
+.circle-element {
+  border-radius: 50%;
+}
